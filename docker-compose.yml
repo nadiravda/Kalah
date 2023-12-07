@@ -1,0 +1,14 @@
+version: '3.9'
+
+services:
+  kalah-frontend:
+    build:
+      context: ./kalah-frontend
+    ports:
+      - "4200:4200"
+
+  kalah-backend:
+    build:
+      context: ./kalah-backend
+    ports:
+      - "8080:8080"

@@ -5,25 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="56154e6e-0bff-403a-8030-24f898632597" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/kalah-backend/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/kalah-backend/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/kalahbackend/KalahBackendApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/kalahbackend/controller/KalahController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/kalahbackend/exception/IllegalGameStateException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/kalahbackend/exception/InvalidMoveException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/kalahbackend/kalahGameEngine/ClassicKalahGameComponent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/kalahbackend/model/GameResult.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/kalahbackend/model/dto/GameStateDTO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/kalahbackend/model/dto/MoveDTO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/kalahbackend/service/KalahService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/kalahbackend/KalahBackendApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/kalahbackend/KalahControllerTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalah-backend/src/main/java/com/kalahbackend/controller/KalahController.java" beforeDir="false" afterPath="$PROJECT_DIR$/kalah-backend/src/main/java/com/kalahbackend/controller/KalahController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalah-frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/kalah-frontend/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +57,8 @@
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "/Users/nadiravdagic/Desktop/workspace/kalah/kalah",
     "nodejs_package_manager_path": "npm",
-    "spring.configuration.checksum": "f5f1a23eaec2064999937e022de388d6"
+    "spring.configuration.checksum": "f5f1a23eaec2064999937e022de388d6",
+    "ts.external.directory.path": "/Users/nadiravdagic/Desktop/workspace/kalah/kalah/kalah-frontend/node_modules/typescript/lib"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -192,7 +177,7 @@
       <workItem from="1701873311538" duration="13934000" />
       <workItem from="1701909332461" duration="89000" />
       <workItem from="1701943856681" duration="20257000" />
-      <workItem from="1701978752414" duration="316000" />
+      <workItem from="1701978752414" duration="4565000" />
     </task>
     <servers />
   </component>
