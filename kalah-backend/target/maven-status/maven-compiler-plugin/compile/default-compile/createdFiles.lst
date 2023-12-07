@@ -1,0 +1,9 @@
+com/kalahbackend/exception/InvalidMoveException.class
+com/kalahbackend/controller/KalahController.class
+com/kalahbackend/model/dto/MoveDTO.class
+com/kalahbackend/service/KalahService.class
+com/kalahbackend/KalahBackendApplication.class
+com/kalahbackend/model/GameResult.class
+com/kalahbackend/kalahGameEngine/ClassicKalahGameComponent.class
+com/kalahbackend/model/dto/GameStateDTO.class
+com/kalahbackend/exception/IllegalGameStateException.class

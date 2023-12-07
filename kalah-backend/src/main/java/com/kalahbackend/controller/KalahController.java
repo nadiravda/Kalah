@@ -16,7 +16,7 @@ import org.springframework.web.bind.annotation.*;
 @Slf4j
 @RequiredArgsConstructor
 @Validated
-@CrossOrigin(origins = "http://kalah-frontend:4200")
+@CrossOrigin(origins = "http://localhost:4200")
 @RequestMapping("/api")
 public class KalahController {
 

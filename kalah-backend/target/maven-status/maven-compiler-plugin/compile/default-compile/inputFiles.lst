@@ -1,0 +1,9 @@
+/Users/nadiravdagic/Desktop/workspace/kalah/kalah/kalah-backend/src/main/java/com/kalahbackend/model/GameResult.java
+/Users/nadiravdagic/Desktop/workspace/kalah/kalah/kalah-backend/src/main/java/com/kalahbackend/exception/InvalidMoveException.java
+/Users/nadiravdagic/Desktop/workspace/kalah/kalah/kalah-backend/src/main/java/com/kalahbackend/model/dto/GameStateDTO.java
+/Users/nadiravdagic/Desktop/workspace/kalah/kalah/kalah-backend/src/main/java/com/kalahbackend/controller/KalahController.java
+/Users/nadiravdagic/Desktop/workspace/kalah/kalah/kalah-backend/src/main/java/com/kalahbackend/model/dto/MoveDTO.java
+/Users/nadiravdagic/Desktop/workspace/kalah/kalah/kalah-backend/src/main/java/com/kalahbackend/KalahBackendApplication.java
+/Users/nadiravdagic/Desktop/workspace/kalah/kalah/kalah-backend/src/main/java/com/kalahbackend/kalahGameEngine/ClassicKalahGameComponent.java
+/Users/nadiravdagic/Desktop/workspace/kalah/kalah/kalah-backend/src/main/java/com/kalahbackend/service/KalahService.java
+/Users/nadiravdagic/Desktop/workspace/kalah/kalah/kalah-backend/src/main/java/com/kalahbackend/exception/IllegalGameStateException.java

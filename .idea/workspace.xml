@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="56154e6e-0bff-403a-8030-24f898632597" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kalah-backend/src/main/java/com/kalahbackend/controller/KalahController.java" beforeDir="false" afterPath="$PROJECT_DIR$/kalah-backend/src/main/java/com/kalahbackend/controller/KalahController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kalah-frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/kalah-frontend/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -177,7 +175,7 @@
       <workItem from="1701873311538" duration="13934000" />
       <workItem from="1701909332461" duration="89000" />
       <workItem from="1701943856681" duration="20257000" />
-      <workItem from="1701978752414" duration="4565000" />
+      <workItem from="1701978752414" duration="5564000" />
     </task>
     <servers />
   </component>
