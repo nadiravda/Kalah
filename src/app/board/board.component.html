@@ -8,23 +8,22 @@
     </ng-template>
   </div>
   <div class="board">
-    <app-field [type]="fieldTypes.BigField" [number]="playerTwoHouse" [isClickable]="false"></app-field>
+    <app-field [type]="fieldTypes.BigField" [number]="playerTwoHouse" [fieldValid]="false"></app-field>
     <div class="fields">
       <div class="fields-row">
         <app-field *ngFor="let field of playerTwoFields.slice().reverse(); 
         index as j" [fieldValid]="playerTurn==2 && field>0" 
         [type]="fieldTypes.SmallField" [number]="field" 
-        [isClickable]="isFieldClickable(j + board.length / 2)" 
-        (click)="onClick((playerTwoFields.length - j - 1) + board.length / 2)"></app-field>
+        (click)="playerTurn == 2 && field > 0 ? onClick((playerTwoFields.length - j - 1) + board.length / 2) : null"></app-field>
       </div>
       <div class="fields-row">
         <app-field *ngFor="let field of playerOneFields; 
         index as i" [fieldValid]="playerTurn==1 && field>0" 
         [type]="fieldTypes.SmallField" [number]="field" 
-        [isClickable]="isFieldClickable(i)" (click)="onClick(i)"></app-field>
+        (click)="playerTurn == 1 && field > 0 ? onClick(i) : null"></app-field>
       </div>
     </div>
-    <app-field [type]="fieldTypes.BigField" [number]="playerOneHouse" [isClickable]="false"></app-field>
+    <app-field [type]="fieldTypes.BigField" [number]="playerOneHouse" [fieldValid]="false"></app-field>
   </div>
   <div>
     <button class="newGameButton" (click)="openNewGameDialog()">New Game</button>

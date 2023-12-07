@@ -79,22 +79,10 @@ export class BoardComponent implements OnInit {
     });
   }
 
-  isFieldClickable(index: number): boolean {
-    console.log(index);
-    return (
-      ((this.playerTurn === 1 && index >= 0 && index < 6) ||
-        (this.playerTurn === 2 && index >= 7 && index <= 13)) &&
-      this.board[index] !== 0
-    );
-  }
-
   onClick(fieldIndex: number): void {
-    console.log('KLIKNO SI NA OVO ' + fieldIndex);
-    if (this.isFieldClickable(fieldIndex)) {
-      this.kalahService.makeMove(fieldIndex).subscribe(() => {
-        this.getGameState();
-      });
-    }
+    this.kalahService.makeMove(fieldIndex).subscribe(() => {
+      this.getGameState();
+    });
   }
 
   mapfileds() {

@@ -22,17 +22,19 @@
   }
   
   .new-game-button{
-    width: 180px;
-    color: #953030; 
-    background-color: #808000; 
+    margin-top: 30px;
+    background-color: #808000;
     padding: 20px 40px;
-    margin-top: 20px;
+    cursor: pointer;
     border: none;
     border-radius: 8px;
     font-size: 24px;
     font-weight: bold;
-    cursor: pointer;
-    transition: background-color 0.3s;
+    
+  
+    &:hover {
+      background-color: #556b2f;
+    }
   }
   
   button[mat-dialog-close="true"]:hover {

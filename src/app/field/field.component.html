@@ -1,4 +1,4 @@
-<div class="field" [ngClass]="{'cursor-pointer': isClickable, 'small-field': type === fieldTypes.SmallField, 'big-field': type === fieldTypes.BigField, 'highlighted': fieldValid}">
+<div class="field" [ngClass]="{'cursor-pointer': fieldValid, 'small-field': type === fieldTypes.SmallField, 'big-field': type === fieldTypes.BigField, 'highlighted': fieldValid}">
   <div class="balls-container">
     <div class="circle" *ngFor="let ball of getBallsArray(); let i = index" [ngStyle]="getCirclePosition(i)"></div>
   </div>
