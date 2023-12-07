@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="56154e6e-0bff-403a-8030-24f898632597" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/kalah-backend/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/kalah-backend/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kalahbackend/KalahBackendApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kalahbackend/controller/KalahController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kalahbackend/exception/IllegalGameStateException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kalahbackend/exception/InvalidMoveException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kalahbackend/kalahGameEngine/ClassicKalahGameComponent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kalahbackend/model/GameResult.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kalahbackend/model/dto/GameStateDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kalahbackend/model/dto/MoveDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kalahbackend/service/KalahService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/kalahbackend/KalahBackendApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/kalahbackend/KalahControllerTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="KubernetesApiPersistence">
+    <option name="context" value="minikube" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Z5Gf2fqEUVHgHZ3yepd43ZsR0x" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/nadiravdagic/Desktop/workspace/kalah/kalah",
+    "nodejs_package_manager_path": "npm",
+    "spring.configuration.checksum": "f5f1a23eaec2064999937e022de388d6"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/kalah-backend" />
+      <recent name="$PROJECT_DIR$/.." />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.KalahBackendApplication">
+    <configuration name="KalahBackendApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kalah-backend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kalahbackend.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kalahbackend" />
+      <option name="MAIN_CLASS_NAME" value="com.kalahbackend.KalahBackendApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KalahControllerTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kalah-backend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kalahbackend.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kalahbackend" />
+      <option name="MAIN_CLASS_NAME" value="com.kalahbackend.KalahControllerTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KalahControllerTests.playerOneMoveAgainSuccess" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kalah-backend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kalahbackend.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kalahbackend" />
+      <option name="MAIN_CLASS_NAME" value="com.kalahbackend.KalahControllerTests" />
+      <option name="METHOD_NAME" value="playerOneMoveAgainSuccess" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KalahControllerTests.testMakeMoveInvalidMoveException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kalah-backend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kalahbackend.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kalahbackend" />
+      <option name="MAIN_CLASS_NAME" value="com.kalahbackend.KalahControllerTests" />
+      <option name="METHOD_NAME" value="testMakeMoveInvalidMoveException" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KalahControllerTests.testMoveSuccess" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kalah-backend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kalahbackend.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kalahbackend" />
+      <option name="MAIN_CLASS_NAME" value="com.kalahbackend.KalahControllerTests" />
+      <option name="METHOD_NAME" value="testMoveSuccess" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KalahBackendApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="kalah-backend" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kalahbackend.KalahBackendApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.KalahControllerTests" />
+        <item itemvalue="JUnit.KalahControllerTests.testMakeMoveInvalidMoveException" />
+        <item itemvalue="JUnit.KalahControllerTests.playerOneMoveAgainSuccess" />
+        <item itemvalue="JUnit.KalahControllerTests.testMoveSuccess" />
+        <item itemvalue="JUnit.KalahBackendApplicationTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="56154e6e-0bff-403a-8030-24f898632597" name="Changes" comment="" />
+      <created>1701704627687</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701704627687</updated>
+      <workItem from="1701704628764" duration="8146000" />
+      <workItem from="1701778022902" duration="27529000" />
+      <workItem from="1701820569251" duration="139000" />
+      <workItem from="1701873311538" duration="13934000" />
+      <workItem from="1701909332461" duration="89000" />
+      <workItem from="1701943856681" duration="20257000" />
+      <workItem from="1701978752414" duration="316000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/kalahbackend/KalahControllerTests.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

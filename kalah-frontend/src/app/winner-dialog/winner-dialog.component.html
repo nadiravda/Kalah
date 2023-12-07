@@ -1,0 +1,11 @@
+<div class="custom-dialog-content">
+    <h1 class="game-over-text">Game Over</h1>
+    <p class="winner-text" *ngIf="data.winner !== 'Tie'">
+      {{ data.winner }} is the winner!
+    </p>
+    <p class="winner-text" *ngIf="data.winner === 'Tie'">
+      It's a tie!
+    </p>
+    <button class="custom-dialog-button" [mat-dialog-close]="'close'">Close</button>
+  </div>
+  
