@@ -1,0 +1,41 @@
+.custom-dialog-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    background-color: #deb887;
+    color: #333333;
+    border: 2px solid black;
+    padding: 40px;
+  }
+  
+  .custom-dialog-button {
+    margin-top: 30px;
+    background-color: #808000;
+    padding: 20px 40px;
+    cursor: pointer;
+    border: none;
+    border-radius: 8px;
+    font-size: 24px;
+    font-weight: bold;
+    transition: background-color 0.3s;
+  
+    &:hover {
+      background-color: #556b2f;
+    }
+  }
+
+  .game-over-text {
+    font-size: 36px;
+    font-weight: bold;
+    color:#953030;
+    margin-bottom: 20px;
+  }
+
+  .winner-text {
+    font-size: 24px;
+    font-weight: bold;
+    color: #953030;
+    margin-bottom: 20px;
+  }
+  

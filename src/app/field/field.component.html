@@ -1,0 +1,6 @@
+<div class="field" [ngClass]="{'cursor-pointer': isClickable, 'small-field': type === fieldTypes.SmallField, 'big-field': type === fieldTypes.BigField, 'highlighted': fieldValid}">
+  <div class="balls-container">
+    <div class="circle" *ngFor="let ball of getBallsArray(); let i = index" [ngStyle]="getCirclePosition(i)"></div>
+  </div>
+  <div [ngClass]="{'small-field-count': type === fieldTypes.SmallField, 'big-field-count': type === fieldTypes.BigField}">{{ number }}</div>
+</div>
