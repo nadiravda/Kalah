@@ -25,7 +25,7 @@ Ensure that you have the following tools installed on your machine:
 2. cd Kalah(Kalah-main)
 3. docker-compose up --build
 
-    - Note: It may take a bit longer because target file is included with the latest snapshot, but you can also run mvn clean install before these command to get a new one locally.
+    - Note: It may take a bit longer because target file is included with the latest snapshot, but you can also run mvn clean install before these commands to get a new one locally.
 
 ## Tech stack
 
