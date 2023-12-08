@@ -24,6 +24,7 @@ Ensure that you have the following tools installed on your machine:
    git clone https://github.com/nadiravda/Kalah.git
 2. cd Kalah(Kalah-main)
 3. docker-compose up --build
+4. find the game on your localhost:4200
 
     - Note: It may take a bit longer because target file is included with the latest snapshot, but you can also run mvn clean install before these commands to get a new one locally.
 
